@@ -1,2 +1,2 @@
 # dotfiles
-Linux Fedora Sway Dotfiles
+Linux Configuration Files
